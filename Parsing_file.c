@@ -2,7 +2,7 @@
 /**
 * read_file - persing lines from the file
 * @filename: file to read name
-* @stack: Pointer 
+* @stack: Pointer
 * Return: void
 */
 

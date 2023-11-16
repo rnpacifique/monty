@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * add - Add the elements in the stack 
+ * add - Add the elements in the stack
  * and append the result to the stack
  * @stack: stack
  * @line_number: The line number of the opcode

@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
  * trim_whitespace - handle whitespaces from a string
- * @str: Pointer 
+ * @str: Pointer
  *
  * Return: Pointer to handle string
  */

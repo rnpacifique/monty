@@ -1,9 +1,9 @@
 #include "monty.h"
 /**
 *parser - Divides the line into command and parameters
-*@trimmed_line:  the file line 
+*@trimmed_line:  the file line
 *@stack: stack head
-*@count: count line 
+*@count: count line
 *Return: void
 */
 

@@ -2,7 +2,7 @@
 /**
  * pall - print elements in stack
  * @stack: stach to print
- * @line_number: The line number 
+ * @line_number: The line number
  *
  * Return: void
  */

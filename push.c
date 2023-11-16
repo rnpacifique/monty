@@ -2,7 +2,7 @@
 
 /**
  * push - puts elements to the list
- * @head: head 
+ * @head: head
  *@line_number:  error line
  *@data: stack added data
  * Return: success return 0 or  -1 fail
@@ -21,6 +21,7 @@ void push(my_stack_t **head, unsigned int line_number, char *data)
 	if (isinteger(data))
 	{
 		int n = (strcmp(data, "0") == 0) ? 0 : atoi(data);
+
 		if ((*head) == NULL)
 		{
 			new_node->n = n;

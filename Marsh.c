@@ -1,8 +1,8 @@
 #include "monty.h"
 /**
- * swap - Switches the positions of the 
+ * swap - Switches the positions of the
  * two topmost elements in the stack
- * @stack: stack Pointer 
+ * @stack: stack Pointer
  * @line_number: The line number of the executing line
  *
  * Return: void
